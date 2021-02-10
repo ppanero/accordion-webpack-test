@@ -1,8 +1,3 @@
-# React Webpack Boilerplate
+# Issue Showcase
 
-\#React \#Webpack \#Babel \#SCSS
-
-This repository is a boiler plate to start React projects,
-using Webpack for assets management and SCSS for styling.
-It includes the babel JS translation and ESLint for code
-styling and formatting.
+This project was imported in codesandbox to showcase [an issue](https://github.com/react-bootstrap/react-bootstrap/issues/5647)
